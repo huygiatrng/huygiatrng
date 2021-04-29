@@ -6,8 +6,9 @@
 
 ### Contact me:
 
-[<img align="left" alt="Huy Truong | Facebook" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/facebook-512.png" />][facebook]
-[<img align="left" alt="Huy Truong | Instagram" width="25px" src="https://cdn.discordapp.com/attachments/648862760540569603/837392409977028669/png_instagram.png" />][instagram]
+[<img align="left" alt="Huy Truong | Facebook" width="25px" src="https://cdn.discordapp.com/attachments/786940754147672084/837399326799298610/Facebook.png" />][facebook]
+[<img align="left" alt="Huy Truong | Instagram" width="25px" src="https://cdn.discordapp.com/attachments/786940754147672084/837399331979919360/Insta.png" />][instagram]
+[<img align="left" alt="Huy Truong | Linkedin" width="25px" src="https://cdn.discordapp.com/attachments/786940754147672084/837399325566304276/Linkedln.png" />][linkedin]
 
 <!---
 huygiatrng/huygiatrng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 [facebook]: https://www.facebook.com/zwtrng.vn2711/
 [instagram]: https://www.instagram.com/huytrng.d0n3/
+[linkedin]: https://www.linkedin.com/in/huy-truong-10b4aa199/
