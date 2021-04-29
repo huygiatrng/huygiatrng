@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Huy%20Truong&fontSize=90)
 
 - I’m learning Computer Science at GSU <img align="left" alt="GSU" width="25px" src="https://cdn.discordapp.com/attachments/648862760540569603/837392741330714624/LogoCircle3spot_rgb3.png" />
-- I’m currently learning art and everything related to science <img align="left" alt="Science" width="25px" src="https://e7.pngegg.com/pngimages/783/523/png-clipart-blue-and-white-science-logo-react-logo-icon-icons-logos-emojis-tech-companies.png" />
+- 📡   I’m currently learning art and everything related to science 
 - 💞️ I’m looking to collaborate with everyone
 
 ### Contact me:
