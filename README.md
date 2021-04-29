@@ -7,7 +7,7 @@
 ### Contact me:
 
 [<img align="left" alt="Huy Truong | Facebook" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/facebook-512.png" />][facebook]
-[<img align="left" alt="Huy Truong | Instagram" width="25px" src="https://www.citypng.com/public/uploads/preview/-11598204248e8qnvax989.png" />][instagram]
+[<img align="left" alt="Huy Truong | Instagram" width="25px" src="https://image.similarpng.com/very-thumbnail/2020/04/golden-social-media-logo-Instagram-png.png" />][instagram]
 
 <!---
 huygiatrng/huygiatrng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
