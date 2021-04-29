@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Huy%20Truong&fontSize=90)
+
 - 👀 I’m learning Computer Science at GSU
 - 🌱 I’m currently learning art and everything related to science
 - 💞️ I’m looking to collaborate with everyone
