@@ -9,6 +9,7 @@
 [<img align="left" alt="Huy Truong | Facebook" width="25px" src="https://cdn.discordapp.com/attachments/786940754147672084/837399326799298610/Facebook.png" />][facebook]
 [<img align="left" alt="Huy Truong | Instagram" width="25px" src="https://cdn.discordapp.com/attachments/786940754147672084/837399331979919360/Insta.png" />][instagram]
 [<img align="left" alt="Huy Truong | Linkedin" width="25px" src="https://cdn.discordapp.com/attachments/786940754147672084/837399325566304276/Linkedln.png" />][linkedin]
+<br />
 
 <!---
 huygiatrng/huygiatrng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
