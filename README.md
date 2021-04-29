@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Huy%20Truong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Huy%20Truong&fontSize=80)
 
 - I’m learning Computer Science at GSU <img align="left" alt="GSU" width="25px" src="https://cdn.discordapp.com/attachments/648862760540569603/837392741330714624/LogoCircle3spot_rgb3.png" />
 - 📡   I’m currently learning art and everything related to science 
@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/huytrng.d0n3/
 [linkedin]: https://www.linkedin.com/in/huy-truong-10b4aa199/
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=ZaWee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=ZaWee&fontSize=80)
