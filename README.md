@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/huytrng.d0n3/
 [linkedin]: https://www.linkedin.com/in/huy-truong-10b4aa199/
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=ZaWee&fontSize=80)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=ZaWee&fontSize=80)
