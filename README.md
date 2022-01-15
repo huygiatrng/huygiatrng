@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [facebook]: https://www.facebook.com/zwtrng.vn2711/
-[instagram]: https://www.instagram.com/huytrng.d0n3/
+[instagram]: https://www.instagram.com/huy.artou/
 [linkedin]: https://www.linkedin.com/in/huy-truong-10b4aa199/
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=ZaWee&fontSize=80)
