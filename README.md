@@ -6,10 +6,9 @@
 
 ### Contact me:
 
-
 [<img align="left" alt="Huy Truong | Facebook" width="25px" src="https://github.com/huygiatrng/huygiatrng/assets/67343196/cef57424-9689-477b-b371-764cdc3f81d3" />][facebook]
-[<img align="left" alt="Huy Truong | Instagram" width="25px" src="https://cdn.discordapp.com/attachments/786940754147672084/837399331979919360/Insta.png" />][instagram]
-[<img align="left" alt="Huy Truong | Linkedin" width="25px" src="https://cdn.discordapp.com/attachments/786940754147672084/837399325566304276/Linkedln.png" />][linkedin]
+[<img align="left" alt="Huy Truong | Instagram" width="25px" src="https://github.com/huygiatrng/huygiatrng/assets/67343196/7df85623-5af8-4e23-a42e-9d850ebb99c7" />][instagram]
+[<img align="left" alt="Huy Truong | Linkedin" width="25px" src="https://github.com/huygiatrng/huygiatrng/assets/67343196/c14ee363-1db6-49bf-9e45-50207dfb3806" />][linkedin]
 <br />
 
 <!---
