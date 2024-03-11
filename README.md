@@ -1,23 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Aaron%20Truong&fontSize=80)
+![Aaron Truong Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Aaron%20Truong&fontSize=80)
 
-- 👩🏻‍💻I graduated in Computer Science at GSU <img align="center" alt="GSU" width="25px" src="https://github.com/huygiatrng/huygiatrng/assets/67343196/e33296c0-463a-43dc-9e74-0cad17170576" />
-- 📡  I’m currently learning art and everything related to science 
-- 💞️ I’m looking to collaborate with everyone
+## 👨‍💻 About Me
 
-### Contact me:
+- 🎓 Graduated from **Georgia State University** with a BSc in Computer Science.
+- 🌱 Exploring **Art** and **Tech**.
+- 👯 Open for **Collaborations**.
 
-[<img align="left" alt="Aaron Truong | Facebook" width="25px" src="https://github.com/huygiatrng/huygiatrng/assets/67343196/cef57424-9689-477b-b371-764cdc3f81d3" />][facebook]
-[<img align="left" alt="Aaron Truong | Instagram" width="25px" src="https://github.com/huygiatrng/huygiatrng/assets/67343196/7df85623-5af8-4e23-a42e-9d850ebb99c7" />][instagram]
-[<img align="left" alt="Aaron Truong | Linkedin" width="25px" src="https://github.com/huygiatrng/huygiatrng/assets/67343196/c14ee363-1db6-49bf-9e45-50207dfb3806" />][linkedin]
-<br />
+## 📫 Connect With Me
 
-<!---
-huygiatrng/huygiatrng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Truong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huy-truong-10b4aa199/)
+[![GitHub](https://img.shields.io/badge/GitHub-huygiatrng-lightgrey?style=flat-square&logo=github)](https://github.com/huygiatrng)
+[![Facebook](https://img.shields.io/badge/Facebook-Aaron_Truong-blue?style=flat-square&logo=facebook)](https://www.facebook.com/zwtrng.vn2711/)
+[![Instagram](https://img.shields.io/badge/Instagram-huy.artou-purple?style=flat-square&logo=instagram)](https://www.instagram.com/huy.artou/)
 
-[facebook]: https://www.facebook.com/zwtrng.vn2711/
-[instagram]: https://www.instagram.com/huy.artou/
-[linkedin]: https://www.linkedin.com/in/huy-truong-10b4aa199/
+## 💻 Technologies & Tools
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Aaron%20Truong&fontSize=80)
+![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java)
+![](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Code-HTML5-red?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Framework-Django-green?style=for-the-badge&logo=django)
+![](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)
+![](https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
+
+![Aaron Truong Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=%20&fontSize=80)
