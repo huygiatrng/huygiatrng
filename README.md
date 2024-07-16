@@ -8,7 +8,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Truong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huy-truong-10b4aa199/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Truong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huy-trng/)
 [![GitHub](https://img.shields.io/badge/GitHub-huygiatrng-lightgrey?style=flat-square&logo=github)](https://github.com/huygiatrng)
 [![Facebook](https://img.shields.io/badge/Facebook-Aaron_Truong-blue?style=flat-square&logo=facebook)](https://www.facebook.com/zwtrng.vn2711/)
 [![Instagram](https://img.shields.io/badge/Instagram-huy.artou-purple?style=flat-square&logo=instagram)](https://www.instagram.com/huy.artou/)
