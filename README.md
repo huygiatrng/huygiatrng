@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Truong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huy-trng/)
 [![GitHub](https://img.shields.io/badge/GitHub-huygiatrng-lightgrey?style=flat-square&logo=github)](https://github.com/huygiatrng)
 [![Facebook](https://img.shields.io/badge/Facebook-Aaron_Truong-blue?style=flat-square&logo=facebook)](https://www.facebook.com/zwtrng.vn2711/)
-[![Instagram](https://img.shields.io/badge/Instagram-huy.artou-purple?style=flat-square&logo=instagram)](https://www.instagram.com/huy.artou/)
+[![Instagram](https://img.shields.io/badge/Instagram-whoishuy271-purple?style=flat-square&logo=instagram)](https://www.instagram.com/whoishuy271/)
 
 ## 💻 Technologies & Tools
 
