@@ -75,13 +75,6 @@
 
 ---
 
-## ⚡ Fun Facts
-- 🎵 **Music** is my fuel—anything from **Lo-fi** to **Classical**.
-- 🌌 Fascinated by **Astronomy** and **Cosmology**—I love staring at the night sky.
-- ✨ A big believer in the **power of community** and **open-source**.
-
----
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=huygiatrng&theme=onedark&column=4&margin-w=15&margin-h=15"/>
