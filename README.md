@@ -77,7 +77,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huygiatrng&theme=onedark&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=huygiatrng&theme=onedark&column=4&margin-w=15&margin-h=15&rank=SECRET,SS,SSS,S,AAA,AA"/>
 </div>
 
 ---
