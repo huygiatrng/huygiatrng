@@ -1,38 +1,92 @@
-![Aaron Truong Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Aaron%20Truong&fontSize=80)
+![Aaron Truong Header](https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=250&section=header&text=Aaron%20Truong&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0FF8E9&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Always+Learning+%7C+Always+Growing" alt="Typing SVG">
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduated from **Georgia State University** with a BSc in Computer Science.
-- 🌱 Exploring **Art** and **Tech**.
-- 👯 Open for **Collaborations**.
+- 🎓 **BSc in Computer Science** from **Georgia State University**.
+- 🎨 Passionate about blending **Art** and **Technology**.
+- 🤝 Available for **Collaborations** and **Freelance Projects**.
+- 📈 Currently honing skills in **Machine Learning** and **Data Visualization**.
+- 💬 I love discussing **tech innovations**, **creative projects**, and anything **Python**.
 
-## 📫 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_Truong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huy-trng/)
-[![GitHub](https://img.shields.io/badge/GitHub-huygiatrng-lightgrey?style=flat-square&logo=github)](https://github.com/huygiatrng)
-[![Facebook](https://img.shields.io/badge/Facebook-Aaron_Truong-blue?style=flat-square&logo=facebook)](https://www.facebook.com/zwtrng.vn2711/)
-[![Instagram](https://img.shields.io/badge/Instagram-whoishuy271-purple?style=flat-square&logo=instagram)](https://www.instagram.com/whoishuy271/)
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/huy-trng/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aaron_Truong-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/huygiatrng">
+    <img src="https://img.shields.io/badge/GitHub-huygiatrng-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.facebook.com/zwtrng.vn2711/">
+    <img src="https://img.shields.io/badge/Facebook-Aaron_Truong-1877f2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/whoishuy271/">
+    <img src="https://img.shields.io/badge/Instagram-whoishuy271-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
 
 ## 💻 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java)
-![](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/Code-HTML5-red?style=for-the-badge&logo=html5)
-![](https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Code-PHP-purple?style=for-the-badge&logo=php)
-![](https://img.shields.io/badge/Framework-Django-green?style=for-the-badge&logo=django)
-![](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)
-![](https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws)
-![](https://img.shields.io/badge/Library-PyTorch-lightgrey?style=for-the-badge&logo=pytorch)
-![](https://img.shields.io/badge/Library-TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![](https://img.shields.io/badge/Library-Numpy-blue?style=for-the-badge&logo=numpy)
-![](https://img.shields.io/badge/Library-Pandas-blue?style=for-the-badge&logo=pandas)
-![](https://img.shields.io/badge/Library-OpenCV-lightgrey?style=for-the-badge&logo=opencv)
-![](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)
-![](https://img.shields.io/badge/Database-SQLite-lightgrey?style=for-the-badge&logo=sqlite)
-![](https://img.shields.io/badge/Tool-Jupyter_Notebook-orange?style=for-the-badge&logo=jupyter)
+<div align="center">
 
+### 🚀 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Aaron Truong Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=%20&fontSize=80)
+### ⚡ Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### ☁️ Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</div>
+
+---
+
+## 🌱 What I'm Currently Working On
+- 🔬 Building machine learning models to predict stock market trends.
+- 🎨 Developing creative **web-based visualizations** using **D3.js**.
+- 🤖 Exploring **Reinforcement Learning** for game-based environments.
+
+---
+
+## ⚡ Fun Facts
+- 🎵 **Music** is my fuel—anything from **Lo-fi** to **Classical**.
+- 🌌 Fascinated by **Astronomy** and **Cosmology**—I love staring at the night sky.
+- ✨ A big believer in the **power of community** and **open-source**.
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=huygiatrng&theme=onedark&column=4&margin-w=15&margin-h=15"/>
+</div>
+
+---
+
+![Aaron Truong Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=200&section=footer)
