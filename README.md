@@ -1,4 +1,4 @@
-![Aaron Truong Header](https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=250&section=header&text=Aaron%20Truong&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40)
+![Aaron Truong Header](https://capsule-render.vercel.app/api?type=waving&color=0:1b0006,100:7d001c&height=250&section=header&text=Aaron%20Truong&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0FF8E9&size=30&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Always+Learning+%7C+Always+Growing" alt="Typing SVG">
@@ -82,4 +82,4 @@
 
 ---
 
-![Aaron Truong Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=200&section=footer)
+![Aaron Truong Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1b0006,100:7d001c&height=200&section=footer)
