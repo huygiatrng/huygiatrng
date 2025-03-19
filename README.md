@@ -6,16 +6,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **BSc in Computer Science** from **Georgia State University**.
-- 🎨 Passionate about blending **Art** and **Technology**.
-- 🤝 Available for **Collaborations** and **Freelance Projects**.
-- 📈 Currently honing skills in **Machine Learning** and **Data Visualization**.
-- 💬 I love discussing **tech innovations**, **creative projects**, and anything **Python**.
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
