@@ -12,12 +12,6 @@
   <a href="https://www.linkedin.com/in/huy-trng/">
     <img src="https://img.shields.io/badge/LinkedIn-Aaron_Truong-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/huygiatrng">
-    <img src="https://img.shields.io/badge/GitHub-huygiatrng-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.facebook.com/zwtrng.vn2711/">
-    <img src="https://img.shields.io/badge/Facebook-Aaron_Truong-1877f2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
   <a href="https://www.instagram.com/whoishuy271/">
     <img src="https://img.shields.io/badge/Instagram-whoishuy271-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
