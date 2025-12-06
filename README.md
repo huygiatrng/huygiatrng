@@ -109,18 +109,4 @@
 
 ---
 
-## 🌱 What I'm Currently Working On
-- 🔬 Building machine learning models to predict stock market trends.
-- 🎨 Developing creative **web-based visualizations** using **D3.js**.
-- 🤖 Exploring **Reinforcement Learning** for game-based environments.
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huygiatrng&theme=onedark&column=4&margin-w=15&margin-h=15&rank=SECRET,SS,SSS,S,AAA,AA,A"/>
-</div>
-
----
-
 ![Aaron Truong Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1b0006,100:7d001c&height=200&section=footer)
