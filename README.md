@@ -1,7 +1,10 @@
 ![Aaron Truong Header](https://capsule-render.vercel.app/api?type=waving&color=0:1b0006,100:7d001c&height=250&section=header&text=Aaron%20Truong&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0FF8E9&size=30&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Always+Learning+%7C+Always+Growing" alt="Typing SVG">
+  <img
+    src="https://typingsvg.vercel.app/api/svg?font=Fira+Code&fontSize=30&color=%230FF8E9&pause=1000&center=true&vCenter=true&width=750&border=false&cursorStyle=blank&backgroundColor=%23ffffff&backgroundOpacity=0&text=Full-Stack+Developer+%7C+Tech+Enthusiast;Always+Learning+%7C+Always+Growing"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
